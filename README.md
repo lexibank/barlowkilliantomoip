@@ -34,12 +34,6 @@ This dataset is licensed under a CC-BY-4.0 license
 - **Segments:** 23 (0 BIPA errors, 0 CLTS sound class errors, 23 CLTS modified)
 - **Inventory size (avg):** 23.00
 
-## Possible Improvements:
-
-
-
-- Entries missing sources: 2/1110 (0.18%)
-
 # Contributors
 
 | Name              | GitHub user    | Description                        | Role   |
