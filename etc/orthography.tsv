@@ -1,0 +1,87 @@
+Grapheme	IPA	Examples	Languages	Frequence	Codepoints
+^	NULL				
+$	NULL				
+a	a	amma kakae, deβi kakae	tomo1244-1	100	U+0061
+o	o	nolo dukum, ŋgol muop	tomo1244-1	100	U+006f
+e	e	peperen, pelpel	tomo1244-1	100	U+0065
+i	i	kiliŋ, liuliu	tomo1244-1	100	U+0069
+u	u	nobuŋ dukum, nolo dukum	tomo1244-1	100	U+0075
+l	l	bla, alpun nolo	tomo1244-1	100	U+006c
+a$	a	ka, kaka	tomo1244-1	100	U+0061 U+0024
+^k	k	ka, kaŋ	tomo1244-1	100	U+005e U+006b
+e$	e	kame, gole	tomo1244-1	100	U+0065 U+0024
+r	r	guararik, purumbiria	tomo1244-1	100	U+0072
+m	m	motom mpu, komama	tomo1244-1	100	U+006d
+n	n	konene, alpun nolo	tomo1244-1	100	U+006e
+^m	m	ma, mam	tomo1244-1	100	U+005e U+006d
+o$	o	lo, ko	tomo1244-1	100	U+006f U+0024
+k	k	kotik kapuru, kaka	tomo1244-1	100	U+006b
+_	_	lo ŋha nua, kobi en bulme	tomo1244-1	100	U+005f
+^t	t	to, ta	tomo1244-1	100	U+005e U+0074
+^p	p	pu, pla	tomo1244-1	87	U+005e U+0070
+r$	r	ler, her	tomo1244-1	84	U+0072 U+0024
+k$	k	blik, lek	tomo1244-1	81	U+006b U+0024
+i$	i	si, -ni	tomo1244-1	79	U+0069 U+0024
+ŋ$	ŋ	kariŋ, kiliŋ	tomo1244-1	78	U+014b U+0024
+m$	m	mnam, tum	tomo1244-1	75	U+006d U+0024
+n$	n	ndan, in	tomo1244-1	73	U+006e U+0024
+b	b	kobi en bulme, mabu	tomo1244-1	72	U+0062
+t	t	putor tomoeβe, kurtiktik	tomo1244-1	68	U+0074
+p	p	depuk depuk, ŋapa	tomo1244-1	67	U+0070
+^l	l	lo, lek	tomo1244-1	67	U+005e U+006c
+^n	n	no-, -ni	tomo1244-1	66	U+005e U+006e
+^β	β	βa, βaloŋ	tomo1244-1	64	U+005e U+03b2
+^b	b	blik, bu	tomo1244-1	62	U+005e U+0062
+^a	a	aŋa, aika	tomo1244-1	60	U+005e U+0061
+^h	h	hem, hoa	tomo1244-1	59	U+005e U+0068
+u$	u	ʝu, pu	tomo1244-1	58	U+0075 U+0024
+l$	l	del, radel	tomo1244-1	56	U+006c U+0024
+^r	r	radel, ro	tomo1244-1	52	U+005e U+0072
+-	<?>	no-, -n	tomo1244-1	49	U+002d
+ŋ	ŋ	aŋa, maŋgil	tomo1244-1	47	U+014b
+d	d	radel, ndan	tomo1244-1	46	U+0064
+^d	d	del, denan	tomo1244-1	44	U+005e U+0064
+^s	s	si, sir	tomo1244-1	38	U+005e U+0073
+β	β	si βadik, putor tomoeβe	tomo1244-1	36	U+03b2
+^ŋ	ŋ	ŋa, ŋapa	tomo1244-1	33	U+005e U+014b
+p$	p	muop, tomoep	tomo1244-1	30	U+0070 U+0024
+h	h	kahian, lami hoa	tomo1244-1	29	U+0068
+^g	g	gole, gelem	tomo1244-1	28	U+005e U+0067
+g	g	pagas, parages	tomo1244-1	26	U+0067
+ʝ	ʝ	kaʝu, neʝa	tomo1244-1	26	U+029d
+s	s	nasi, tasiek	tomo1244-1	25	U+0073
+=$	<?>	ni=, m=	tomo1244-1	17	U+003d U+0024
+s$	s	pagas, lumbas	tomo1244-1	15	U+0073 U+0024
+^i	i	in, imuo	tomo1244-1	14	U+005e U+0069
+^ʝ	ʝ	ʝu, ʝaboŋ	tomo1244-1	13	U+005e U+029d
+^u	u	une, ul blik	tomo1244-1	13	U+005e U+0075
+t$	t	βat, ŋorat	tomo1244-1	11	U+0074 U+0024
+ŋh	ŋh	teŋha mepka, kaŋho	tomo1244-1	8	U+014b U+0068
+mm	mm	deβi mimma, die mimma	tomo1244-1	7	U+006d U+006d
+ms	ms	mamsie, kamsa	tomo1244-1	4	U+006d U+0073
+^n$	n	-n, n-	tomo1244-1	4	U+005e U+006e U+0024
+^=	<?>	=ŋa, =ni	tomo1244-1	4	U+005e U+003d
+^ps	ps	psi, pso	tomo1244-1	3	U+005e U+0070 U+0073
+lh	lh	bulhe, pulha	tomo1244-1	3	U+006c U+0068
+nn	nn	anno kakae, anno	tomo1244-1	3	U+006e U+006e
+^ms	ms	msik, msiŋ	tomo1244-1	3	U+005e U+006d U+0073
+ns	ns	tanso, tansi	tomo1244-1	3	U+006e U+0073
+rh	rh	burho, βarhek	tomo1244-1	2	U+0072 U+0068
+^o	o	olsak, otβie	tomo1244-1	2	U+005e U+006f
+nh	nh	menhe	tomo1244-1	1	U+006e U+0068
+ph	pʰ	konophe	tomo1244-1	1	U+0070 U+0068
+mh	mh	dumhe	tomo1244-1	1	U+006d U+0068
+ls	ls	olsak	tomo1244-1	1	U+006c U+0073
+ks	ks	saksak	tomo1244-1	1	U+006b U+0073
+ŋs	ŋs	siŋsiŋ	tomo1244-1	1	U+014b U+0073
+^ks	ks	kses	tomo1244-1	1	U+005e U+006b U+0073
+^u$	u	u	tomo1244-1	1	U+005e U+0075 U+0024
+^a$	a	a	tomo1244-1	1	U+005e U+0061 U+0024
+^aa$	aa	aa	tomo1244-1	1	U+005e U+0061 U+0061 U+0024
+^e	e	e=	tomo1244-1	1	U+005e U+0065
+^e$	e	e	tomo1244-1	1	U+005e U+0065 U+0024
+^h$	h	h-	tomo1244-1	1	U+005e U+0068 U+0024
+^i$	i	i	tomo1244-1	1	U+005e U+0069 U+0024
+^ŋ$	ŋ	-ŋ	tomo1244-1	1	U+005e U+014b U+0024
+^m$	m	-m	tomo1244-1	1	U+005e U+006d U+0024
+^k$	k	-k	tomo1244-1	1	U+005e U+006b U+0024
