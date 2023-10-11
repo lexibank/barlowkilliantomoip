@@ -1,4 +1,4 @@
-# CLDF dataset derived from Barlow's and Killian's Tomoip Wordlist
+# CLDF dataset derived from Barlow's and Killian's "Tomoip Wordlist" from 2022
 
 [![CLDF validation](https://github.com/lexibank/barlowkilliantomoip/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/barlowkilliantomoip/actions?query=workflow%3ACLDF-validation)
 
