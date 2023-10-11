@@ -1,5 +1,7 @@
 # Contributors
 
-Name | GitHub user | Role
---- | --- | ---
- | @ | maintainer
+| Name              | GitHub user    | Description                        | Role   |
+|-------------------|----------------|------------------------------------|--------|
+| Russell Barlow    | @barlowrussell | author, data entry, data collector | Author |
+| Don Killian       |                | author, data entry, data collector | Author |
+| Christoph Rzymski | @chrzyki       | patron, maintainer                 | Other  |

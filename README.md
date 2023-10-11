@@ -1,16 +1,18 @@
-# Barlow Killian Tomoip
+# CLDF dataset derived from Barlow's and Killian's Tomoip Wordlist
 
 [![CLDF validation](https://github.com/lexibank/barlowkilliantomoip/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/barlowkilliantomoip/actions?query=workflow%3ACLDF-validation)
 
 ## How to cite
 
 If you use these data please cite
-this dataset using the DOI of the [particular released version](../../releases/) you were using
+- the original source
+  > Barlow, Russell & Killian, Don. 2023. Tomoip wordlist: Based on elicitation sessions with Simon Mangil from Milim village, recorded in Kokopo, East New Britain, October to November 2022.
+- the derived dataset using the DOI of the [particular released version](../../releases/) you were using
 
 ## Description
 
 
-This dataset is licensed under a CC-BY-40 license
+This dataset is licensed under a CC-BY-4.0 license
 
 ## Statistics
 
@@ -40,10 +42,11 @@ This dataset is licensed under a CC-BY-40 license
 
 # Contributors
 
-Name | GitHub user | Role
---- | --- | ---
- | @ | maintainer
-
+| Name              | GitHub user    | Description                        | Role   |
+|-------------------|----------------|------------------------------------|--------|
+| Russell Barlow    | @barlowrussell | author, data entry, data collector | Author |
+| Don Killian       |                | author, data entry, data collector | Author |
+| Christoph Rzymski | @chrzyki       | patron, maintainer                 | Other  |
 
 
 

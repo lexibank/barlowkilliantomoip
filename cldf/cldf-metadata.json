@@ -1,18 +1,19 @@
 {
     "@context": "http://www.w3.org/ns/csvw",
     "aboutUrl": null,
+    "dc:bibliographicCitation": "Barlow, Russell & Killian, Don. 2023. Tomoip wordlist: Based on elicitation sessions with Simon Mangil from Milim village, recorded in Kokopo, East New Britain, October to November 2022.",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
     "dc:isVersionOf": null,
-    "dc:license": "CC-BY-40",
+    "dc:license": "https://creativecommons.org/licenses/by/4.0/",
     "dc:related": null,
     "dc:source": "sources.bib",
-    "dc:title": "Barlow Killian Tomoip",
+    "dc:title": "CLDF dataset derived from Barlow's and Killian's Tomoip Wordlist",
     "dcat:accessURL": "https://github.com/lexibank/barlowkilliantomoip",
     "prov:wasDerivedFrom": [
         {
             "rdf:about": "https://github.com/lexibank/barlowkilliantomoip",
             "rdf:type": "prov:Entity",
-            "dc:created": "fb7f3b9",
+            "dc:created": "4bbadce",
             "dc:title": "Repository"
         },
         {
