@@ -838,7 +838,7 @@ tomo1244-1-736_time-1,,tomo1244-1,736_time,tem,tem,t e m,loan from Tok Pisin /ta
 tomo1244-1-963_yesterday-1,,tomo1244-1,963_yesterday,tere,tere,t e r e,,BarlowKillian2023,,,^ t e r e $,default,
 tomo1244-1-215_daybeforeyesterday-1,,tomo1244-1,215_daybeforeyesterday,tere ʝar,tere ʝar,t e r e + ʝ a r,from /tere/ 'yesterday'; cf. /morik ʝar/ 'day after tomorrow',BarlowKillian2023,,,^ t e r e + ʝ a r $,default,
 tomo1244-1-103_beforeearlier-1,,tomo1244-1,103_beforeearlier,tono,tono,t o n o,,BarlowKillian2023,,,^ t o n o $,default,
-tomo1244-1-537_one1-1,,tomo1244-1,537_one1,de-,de-,d e +,"found in /denan/, /demuor/, debuŋ/, /depuk/; cf. /detu/ 'another'",BarlowKillian2023,,,^ d e - $,default,
+tomo1244-1-537_one1-1,,tomo1244-1,537_one1,de-,de-,d e,"found in /denan/, /demuor/, debuŋ/, /depuk/; cf. /detu/ 'another'",BarlowKillian2023,,,^ d e -$,default,
 tomo1244-1-537_one1-2,,tomo1244-1,537_one1,debuŋ,debuŋ,d e b u ŋ,for counting fruits; literally 'one-fruit',BarlowKillian2023,,,^ d e b u ŋ $,default,
 tomo1244-1-537_one1-3,,tomo1244-1,537_one1,demuor,demuor,d e m u o r,for counting people; literally 'one-person'?,BarlowKillian2023,,,^ d e m u o r $,default,
 tomo1244-1-537_one1-4,,tomo1244-1,537_one1,denan,denan,d e n a n,often [dennan]; generic word for counting anything; literally 'one-that'?,BarlowKillian2023,,,^ d e n a n $,default,
@@ -847,31 +847,31 @@ tomo1244-1-898_two2-1,,tomo1244-1,898_two2,horo,horo,h o r o,cf. /ro=/ 'du'; is 
 tomo1244-1-732_three3-1,,tomo1244-1,732_three3,horomdetu,horomdetu,h o r o m d e t u,literally 'two and another' (/m/ < /mo/ 'and'),BarlowKillian2023,,,^ h o r o m d e t u $,default,
 tomo1244-1-325_four4-1,,tomo1244-1,325_four4,horo mo horo,horo mo horo,h o r o + m o + h o r o,literally 'two and two',BarlowKillian2023,,,^ h o r o + m o + h o r o $,default,
 tomo1244-1-311_five5-1,,tomo1244-1,311_five5,liem,liem,l i e m,cf. Parkinson (1907: 780): <līem> 'zehn' ['ten (10)'],BarlowKillian2023,,,^ l i e m $,default,
-tomo1244-1-873_transitivesuffix-1,,tomo1244-1,873_transitivesuffix,-bi,-bi,+ b i,"postverbal; unclear whether this is allomorph of /-ie/, /-rie/, /-sie/, /-ni/; only found on /him/ 'kill' ~ /hibi/ 'kill him/her/it'",BarlowKillian2023,,,^ - b i $,default,
-tomo1244-1-872_transitivesuffix-1,,tomo1244-1,872_transitivesuffix,-ie,-ie,+ i e,"postverbal; also /-rie/, /-sie/; /-ni/, /-bi/ (?); /-n/ (?)",BarlowKillian2023,,,^ - i e $,default,
-tomo1244-1-873_transitivesuffix-2,,tomo1244-1,873_transitivesuffix,-n,-n,+ n,transitive suffix?,BarlowKillian2023,,,^ - n $,default,
-tomo1244-1-539_oneselfindeed-1,,tomo1244-1,539_oneselfindeed,-ni,-ni,+ n i,emphatic marker; as in: /ʝoni/ 'I myself' (cf. Tok Pisin: mi yet); is this a demonstrative marker?,BarlowKillian2023,,,^ - n i $,default,
-tomo1244-1-872_transitivesuffix-2,,tomo1244-1,872_transitivesuffix,-ni,-ni,+ n i,"postverbal; also /-bi/ (?); also /-ie/, /-rie/, /-sie/; /-n/ (?)",BarlowKillian2023,,,^ - n i $,default,
-tomo1244-1-872_transitivesuffix-3,,tomo1244-1,872_transitivesuffix,-rie,-rie,+ r i e,"postverbal; also /-ie/, /-sie/; /-ni/, /-bi/ (?); /-n/ (?)",BarlowKillian2023,,,^ - r i e $,default,
-tomo1244-1-872_transitivesuffix-4,,tomo1244-1,872_transitivesuffix,-sie,-sie,+ s i e,"postverbal; also /-ie/, /-rie/; /-ni/, /-bi/ (?); /-n/ (?)",BarlowKillian2023,,,^ - s i e $,default,
+tomo1244-1-873_transitivesuffix-1,,tomo1244-1,873_transitivesuffix,-bi,-bi,b i,"postverbal; unclear whether this is allomorph of /-ie/, /-rie/, /-sie/, /-ni/; only found on /him/ 'kill' ~ /hibi/ 'kill him/her/it'",BarlowKillian2023,,,^- b i $,default,
+tomo1244-1-872_transitivesuffix-1,,tomo1244-1,872_transitivesuffix,-ie,-ie,i e,"postverbal; also /-rie/, /-sie/; /-ni/, /-bi/ (?); /-n/ (?)",BarlowKillian2023,,,^- i e $,default,
+tomo1244-1-873_transitivesuffix-2,,tomo1244-1,873_transitivesuffix,-n,-n,n,transitive suffix?,BarlowKillian2023,,,^- n $,default,
+tomo1244-1-539_oneselfindeed-1,,tomo1244-1,539_oneselfindeed,-ni,-ni,n i,emphatic marker; as in: /ʝoni/ 'I myself' (cf. Tok Pisin: mi yet); is this a demonstrative marker?,BarlowKillian2023,,,^- n i $,default,
+tomo1244-1-872_transitivesuffix-2,,tomo1244-1,872_transitivesuffix,-ni,-ni,n i,"postverbal; also /-bi/ (?); also /-ie/, /-rie/, /-sie/; /-n/ (?)",BarlowKillian2023,,,^- n i $,default,
+tomo1244-1-872_transitivesuffix-3,,tomo1244-1,872_transitivesuffix,-rie,-rie,r i e,"postverbal; also /-ie/, /-sie/; /-ni/, /-bi/ (?); /-n/ (?)",BarlowKillian2023,,,^- r i e $,default,
+tomo1244-1-872_transitivesuffix-4,,tomo1244-1,872_transitivesuffix,-sie,-sie,s i e,"postverbal; also /-ie/, /-rie/; /-ni/, /-bi/ (?); /-n/ (?)",BarlowKillian2023,,,^- s i e $,default,
 tomo1244-1-560_personalarticle-1,,tomo1244-1,560_personalarticle,a,a,a,,BarlowKillian2023,,,^ a $,default,
-tomo1244-1-402_imperativemarkernonsingular-1,,tomo1244-1,402_imperativemarkernonsingular,a=,a=,a +,perhaps only a plural imperative marker: information on dual imperatives is lacking,BarlowKillian2023,,,^ a = $,default,
+tomo1244-1-402_imperativemarkernonsingular-1,,tomo1244-1,402_imperativemarkernonsingular,a=,a=,a,perhaps only a plural imperative marker: information on dual imperatives is lacking,BarlowKillian2023,,,^ a =$,default,
 tomo1244-1-57_affirmativeinterjection-1,,tomo1244-1,57_affirmativeinterjection,aa,aa,a a,two tones: high-mid,BarlowKillian2023,,,^ a a $,default,
-tomo1244-1-247_ediblepossessiveclassifier1sgpossessor-1,,tomo1244-1,247_ediblepossessiveclassifier1sgpossessor,ago-,ago-,a g o +,"also /go-/, /he-/",BarlowKillian2023,,,^ a g o - $,default,ago-ŋ (1sg)
-tomo1244-1-250_ediblepossessiveclassifier3sgpossessor-1,,tomo1244-1,250_ediblepossessiveclassifier3sgpossessor,aha-,aha-,a h a +,also /ha-/,BarlowKillian2023,,,^ a h a - $,default,ha-n (3sg)
+tomo1244-1-247_ediblepossessiveclassifier1sgpossessor-1,,tomo1244-1,247_ediblepossessiveclassifier1sgpossessor,ago-,ago-,a g o,"also /go-/, /he-/",BarlowKillian2023,,,^ a g o -$,default,ago-ŋ (1sg)
+tomo1244-1-250_ediblepossessiveclassifier3sgpossessor-1,,tomo1244-1,250_ediblepossessiveclassifier3sgpossessor,aha-,aha-,a h a,also /ha-/,BarlowKillian2023,,,^ a h a -$,default,ha-n (3sg)
 tomo1244-1-251_ediblepossessiveclassifiernonpronominalpossessor-1,,tomo1244-1,251_ediblepossessiveclassifiernonpronominalpossessor,ahe,ahe,a h e,,BarlowKillian2023,,,^ a h e $,default,
-tomo1244-1-249_ediblepossessiveclassifier2sgpossessor-1,,tomo1244-1,249_ediblepossessiveclassifier2sgpossessor,ahe-,ahe-,a h e +,also /he-/,BarlowKillian2023,,,^ a h e - $,default,ahe-m (2sg)
-tomo1244-1-349_generalpossessiveclassifiernsgn3du-1,,tomo1244-1,349_generalpossessiveclassifiernsgn3du,ai-,ai-,a i +,"used with all possessors except 1sg, 2sg, 3sg, and 3du?",BarlowKillian2023,,,^ a i - $,default,"ai-ka (1du.excl), ai-ta (1du.incl), ai-kuma (2du), ai-kem (1pl.excl), ai-sier (1pl.incl), ai-kom (2pl), ai-di (3pl)"
+tomo1244-1-249_ediblepossessiveclassifier2sgpossessor-1,,tomo1244-1,249_ediblepossessiveclassifier2sgpossessor,ahe-,ahe-,a h e,also /he-/,BarlowKillian2023,,,^ a h e -$,default,ahe-m (2sg)
+tomo1244-1-349_generalpossessiveclassifiernsgn3du-1,,tomo1244-1,349_generalpossessiveclassifiernsgn3du,ai-,ai-,a i,"used with all possessors except 1sg, 2sg, 3sg, and 3du?",BarlowKillian2023,,,^ a i -$,default,"ai-ka (1du.excl), ai-ta (1du.incl), ai-kuma (2du), ai-kem (1pl.excl), ai-sier (1pl.incl), ai-kom (2pl), ai-di (3pl)"
 tomo1244-1-227_drinkablepossessiveclassifier-1,,tomo1244-1,227_drinkablepossessiveclassifier,alma,alma,a l m a,,BarlowKillian2023,,,^ a l m a $,default,"alma-ʝo (1sg), alma-ke (2sg), alma-n (3sg), alma (before noun)"
 tomo1244-1-933_who-1,,tomo1244-1,933_who,amo,amo,a m o,also /amor/,BarlowKillian2023,,,^ a m o $,default,
 tomo1244-1-933_who-2,,tomo1244-1,933_who,amor,amor,a m o r,from /a/ 'person marker' with *m[u]or 'person'?; cf. /demuor/ 'one'; also /amo/,BarlowKillian2023,,,^ a m o r $,default,
-tomo1244-1-346_generalpossessiveclassifier2sg3dupossessor-1,,tomo1244-1,346_generalpossessiveclassifier2sg3dupossessor,an-,an-,a n +,also /n-/,BarlowKillian2023,,,^ a n - $,default,"an-ke (2sg), an-doro (3du)"
+tomo1244-1-346_generalpossessiveclassifier2sg3dupossessor-1,,tomo1244-1,346_generalpossessiveclassifier2sg3dupossessor,an-,an-,a n,also /n-/,BarlowKillian2023,,,^ a n -$,default,"an-ke (2sg), an-doro (3du)"
 tomo1244-1-717_thatthosemedialadnominaldemonstrative-1,,tomo1244-1,717_thatthosemedialadnominaldemonstrative,ana,ana,a n a,usually [anna]; also /=na/,,,,^ a n a $,default,
-tomo1244-1-347_generalpossessiveclassifier2sgpossessor-1,,tomo1244-1,347_generalpossessiveclassifier2sgpossessor,ane-,ane-,a n e +,also /ne-/,BarlowKillian2023,,,^ a n e - $,default,ane-m (2sg)
+tomo1244-1-347_generalpossessiveclassifier2sgpossessor-1,,tomo1244-1,347_generalpossessiveclassifier2sgpossessor,ane-,ane-,a n e,also /ne-/,BarlowKillian2023,,,^ a n e -$,default,ane-m (2sg)
 tomo1244-1-728_thistheseproximaladnominaldemonstrative-1,,tomo1244-1,728_thistheseproximaladnominaldemonstrative,ani,ani,a n i,usually [anni]; also /=ni/,BarlowKillian2023,,,^ a n i $,default,
-tomo1244-1-344_generalpossessiveclassifier1sgpossessor-1,,tomo1244-1,344_generalpossessiveclassifier1sgpossessor,ani-,ani-,a n i +,also /ni-/,BarlowKillian2023,,,^ a n i - $,default,ani-ŋ (1sg)
+tomo1244-1-344_generalpossessiveclassifier1sgpossessor-1,,tomo1244-1,344_generalpossessiveclassifier1sgpossessor,ani-,ani-,a n i,also /ni-/,BarlowKillian2023,,,^ a n i -$,default,ani-ŋ (1sg)
 tomo1244-1-348_generalpossessiveclassifiernonpronominalpossessor-1,,tomo1244-1,348_generalpossessiveclassifiernonpronominalpossessor,ano,ano,a n o,also /no/,BarlowKillian2023,,,^ a n o $,default,
-tomo1244-1-343_generalpossessiveclassifier1sg3sg-1,,tomo1244-1,343_generalpossessiveclassifier1sg3sg,ano-,ano-,a n o +,also /no-/,BarlowKillian2023,,,^ a n o - $,default,"ano-ʝo (1sg), ano-n (3sg)"
+tomo1244-1-343_generalpossessiveclassifier1sg3sg-1,,tomo1244-1,343_generalpossessiveclassifier1sg3sg,ano-,ano-,a n o,also /no-/,BarlowKillian2023,,,^ a n o -$,default,"ano-ʝo (1sg), ano-n (3sg)"
 tomo1244-1-713_thatcomplementizerthatthosedistaladnominaldemonstrativetherebecause-1,,tomo1244-1,713_thatcomplementizerthatthosedistaladnominaldemonstrativetherebecause,aŋa,aŋa,a ŋ a,also /=ŋa/,BarlowKillian2023,,,^ a ŋ a $,default,
 tomo1244-1-427_interjectionexpressingexcuseme-1,,tomo1244-1,427_interjectionexpressingexcuseme,ao,ao,a o,,BarlowKillian2023,,,^ a o $,default,
 tomo1244-1-649_somesomethingsomeoneotheranother-1,,tomo1244-1,649_somesomethingsomeoneotheranother,asi,asi,a s i,,BarlowKillian2023,,,^ a s i $,default,
@@ -889,31 +889,31 @@ tomo1244-1-723_theotheranotherpersonproximalthisperson-1,,tomo1244-1,723_theothe
 tomo1244-1-60_all-1,,tomo1244-1,60_all,birbir,birbir,b i r b i r,reduplication; from /bir/ 'white',BarlowKillian2023,,,^ b i r b i r $,default,"me-birbir (prefix /me-/), te-birbir (prefix /te-/)"
 tomo1244-1-925_what-1,,tomo1244-1,925_what,boka,boka,b o k a,also /mene/,BarlowKillian2023,,,^ b o k a $,default,
 tomo1244-1-650_something-1,,tomo1244-1,650_something,bokaeria,bokaeria,b o k a e r i a,,BarlowKillian2023,,,^ b o k a e r i a $,default,
-tomo1244-1-178_classtermprefixforfruitsroundthingsbunches-1,,tomo1244-1,178_classtermprefixforfruitsroundthingsbunches,buŋ-,buŋ-,b u ŋ +,"class term prefix for fruits, round things, bunches",BarlowKillian2023,,,^ b u ŋ - $,default,
+tomo1244-1-178_classtermprefixforfruitsroundthingsbunches-1,,tomo1244-1,178_classtermprefixforfruitsroundthingsbunches,buŋ-,buŋ-,b u ŋ,"class term prefix for fruits, round things, bunches",BarlowKillian2023,,,^ b u ŋ -$,default,
 tomo1244-1-404_indeedemphaticmarkerintensifierreflexivemarker-1,,tomo1244-1,404_indeedemphaticmarkerintensifierreflexivemarker,buop,buop,b u o p,,BarlowKillian2023,,,^ b u o p $,default,
-tomo1244-1-80_augmentativeprefix-1,,tomo1244-1,80_augmentativeprefix,da-,da-,d a +,augmentative prefix?,BarlowKillian2023,,,^ d a - $,default,
+tomo1244-1-80_augmentativeprefix-1,,tomo1244-1,80_augmentativeprefix,da-,da-,d a,augmentative prefix?,BarlowKillian2023,,,^ d a -$,default,
 tomo1244-1-328_fromablativeprepositionwithalongwithcomitativepreposition-1,,tomo1244-1,328_fromablativeprepositionwithalongwithcomitativepreposition,de,de,d e,,BarlowKillian2023,,,^ d e $,default,de-ʝo ('from me') (1sg)
 tomo1244-1-556_partialpartiallypart-1,,tomo1244-1,556_partialpartiallypart,del,del,d e l,same as 'grass'?; related to /de-/ 'one'?; prenominal element,BarlowKillian2023,,,^ d e l $,default,me-del [medel ~ mdel] (prefix /me-/)
 tomo1244-1-240_eachonebyonepiecebypiece-1,,tomo1244-1,240_eachonebyonepiecebypiece,depuk depuk,depuk depuk,d e p u k + d e p u k,reduplication; from /de-/ 'one' with /puk/ 'piece',BarlowKillian2023,,,^ d e p u k + d e p u k $,default,
 tomo1244-1-67_another-1,,tomo1244-1,67_another,detu,detu,d e t u,,BarlowKillian2023,,,^ d e t u $,default,
 tomo1244-1-255_end-1,,tomo1244-1,255_end,dume,dume,d u m e,,BarlowKillian2023,,,^ d u m e $,default,dume-n (3sg)
-tomo1244-1-573_pluralmarker-1,,tomo1244-1,573_pluralmarker,e=,e=,e +,,BarlowKillian2023,,,^ e = $,default,
+tomo1244-1-573_pluralmarker-1,,tomo1244-1,573_pluralmarker,e=,e=,e,,BarlowKillian2023,,,^ e =$,default,
 tomo1244-1-526_ofgenitivepreposition-1,,tomo1244-1,526_ofgenitivepreposition,e,e,e,"status as preposition is not entirely clear; also /lo/, /lol/, /ŋa/, /ta/, /to/, /o/ (?)",BarlowKillian2023,,,^ e $,default,
 tomo1244-1-488_modalparticle-1,,tomo1244-1,488_modalparticle,ga,ga,g a,preverbal; possibly occurs in slot otherwise held by real/irr subject marker; exact function is unknown; often pronounced as [ɣa],BarlowKillian2023,,,^ g a $,default,
 tomo1244-1-323_forgoalpreposition-1,,tomo1244-1,323_forgoalpreposition,ge,ge,g e,occurs with /βua/ 'to look for'; object is that which is sought,,,,^ g e $,default,
 tomo1244-1-329_front-1,,tomo1244-1,329_front,girie,girie,g i r i e,verbal meaning?; verbal suffix /-rie/?; genitive preposition /-e/?; cf. /gi/ 'treetop'; used as 'elder/older (sibling)' in Grace (1955a),BarlowKillian2023,,,^ g i r i e $,default,ne=girie (sg)
 tomo1244-1-927_where-2,,tomo1244-1,927_where,go ua,go ua,g o + u a,"literally 'to be where?'; also /au ua/, /ne ua/, /ua/",BarlowKillian2023,,,^ g o + u a $,default,
-tomo1244-1-247_ediblepossessiveclassifier1sgpossessor-2,,tomo1244-1,247_ediblepossessiveclassifier1sgpossessor,go-,go-,g o +,"also /ago-/, /he-/",BarlowKillian2023,,,^ g o - $,default,go-ŋ (1sg)
-tomo1244-1-574_pluralmarkingprefix-1,,tomo1244-1,574_pluralmarkingprefix,h-,h-,h +,"allomorph of /e=/? (possibly reanalyzed root-initial /h/ of some nouns, e.g., /hobeŋ/ 'lime', /hodie/ 'spear', /holo/ 'woman', /her/ 'rain'; cf. /herek/ 'children', /horek/ 'men')",BarlowKillian2023,,,^ h - $,default,
-tomo1244-1-250_ediblepossessiveclassifier3sgpossessor-2,,tomo1244-1,250_ediblepossessiveclassifier3sgpossessor,ha-,ha-,h a +,also /aha-/,BarlowKillian2023,,,^ h a - $,default,aha-n (3sg)
+tomo1244-1-247_ediblepossessiveclassifier1sgpossessor-2,,tomo1244-1,247_ediblepossessiveclassifier1sgpossessor,go-,go-,g o,"also /ago-/, /he-/",BarlowKillian2023,,,^ g o -$,default,go-ŋ (1sg)
+tomo1244-1-574_pluralmarkingprefix-1,,tomo1244-1,574_pluralmarkingprefix,h-,h-,h,"allomorph of /e=/? (possibly reanalyzed root-initial /h/ of some nouns, e.g., /hobeŋ/ 'lime', /hodie/ 'spear', /holo/ 'woman', /her/ 'rain'; cf. /herek/ 'children', /horek/ 'men')",BarlowKillian2023,,,^ h -$,default,
+tomo1244-1-250_ediblepossessiveclassifier3sgpossessor-2,,tomo1244-1,250_ediblepossessiveclassifier3sgpossessor,ha-,ha-,h a,also /aha-/,BarlowKillian2023,,,^ h a -$,default,aha-n (3sg)
 tomo1244-1-648_somesomething-1,,tomo1244-1,648_somesomething,hasi,hasi,h a s i,also /si/,BarlowKillian2023,,,^ h a s i $,default,
-tomo1244-1-248_ediblepossessiveclassifier2sggeneralpossessor-1,,tomo1244-1,248_ediblepossessiveclassifier2sggeneralpossessor,he-,he-,h e +,also /ahe-/,BarlowKillian2023,,,^ h e - $,default,"he-ʝo (1sg), he-ke (2sg), he-m (2sg), he-doro (3du), he-kom (2pl)"
-tomo1244-1-578_prefix-1,,tomo1244-1,578_prefix,ho-,ho-,h o +,fossilized plural?; it is not clear whether this is or ever was a prefix; but it seems to alternate with /no-/ (possibly reanalysis involved),BarlowKillian2023,,,^ h o - $,default,
-tomo1244-1-403_imperativemarkersingular-1,,tomo1244-1,403_imperativemarkersingular,i=,i=,i +,preverbal,BarlowKillian2023,,,^ i = $,default,
+tomo1244-1-248_ediblepossessiveclassifier2sggeneralpossessor-1,,tomo1244-1,248_ediblepossessiveclassifier2sggeneralpossessor,he-,he-,h e,also /ahe-/,BarlowKillian2023,,,^ h e -$,default,"he-ʝo (1sg), he-ke (2sg), he-m (2sg), he-doro (3du), he-kom (2pl)"
+tomo1244-1-578_prefix-1,,tomo1244-1,578_prefix,ho-,ho-,h o,fossilized plural?; it is not clear whether this is or ever was a prefix; but it seems to alternate with /no-/ (possibly reanalysis involved),BarlowKillian2023,,,^ h o -$,default,
+tomo1244-1-403_imperativemarkersingular-1,,tomo1244-1,403_imperativemarkersingular,i=,i=,i,preverbal,BarlowKillian2023,,,^ i =$,default,
 tomo1244-1-428_interjectionexpressingsorry-1,,tomo1244-1,428_interjectionexpressingsorry,ikae,ikae,i k a e,literally 'choose!'?,BarlowKillian2023,,,^ i k a e $,default,
 tomo1244-1-962_yesaffirmativeresponse-1,,tomo1244-1,962_yesaffirmativeresponse,ʝu,ʝu,ʝ u,,BarlowKillian2023,,,^ ʝ u $,default,
 tomo1244-1-521_nonotnegator-1,,tomo1244-1,521_nonotnegator,ka,ka,k a,preverbal,BarlowKillian2023,,,^ k a $,default,
-tomo1244-1-179_classtermprefixfortreeslongthingsplants-1,,tomo1244-1,179_classtermprefixfortreeslongthingsplants,ka-,ka-,k a +,"class term prefix for trees, long things, plants",BarlowKillian2023,,,^ k a - $,default,
+tomo1244-1-179_classtermprefixfortreeslongthingsplants-1,,tomo1244-1,179_classtermprefixfortreeslongthingsplants,ka-,ka-,k a,"class term prefix for trees, long things, plants",BarlowKillian2023,,,^ k a -$,default,
 tomo1244-1-543_outside-1,,tomo1244-1,543_outside,kabe,kabe,k a b e,,BarlowKillian2023,,,^ k a b e $,default,kabe-n (3sg)
 tomo1244-1-198_cornercrevice-1,,tomo1244-1,198_cornercrevice,kamsa,kamsa,k a m s a,,BarlowKillian2023,,,^ k a m s a $,default,kamsa-n (3sg)
 tomo1244-1-83_backofbehindafterafterwards-1,,tomo1244-1,83_backofbehindafterafterwards,kap lo,kap lo,k a p + l o,cf. /kap/ 'back of the body',BarlowKillian2023,,,^ k a p + l o $,default,kap lo-n (3sg)
@@ -922,19 +922,19 @@ tomo1244-1-934_wholeentirebunchegofcoconutsarecanutsbananas-1,,tomo1244-1,934_wh
 tomo1244-1-138_bottombaseofacoconutshellstumpofatree-1,,tomo1244-1,138_bottombaseofacoconutshellstumpofatree,kobi,kobi,k o b i,"cf. /nobi/ 'buttocks'; cf. /kebi/ 'intestines, guts'",BarlowKillian2023,,,^ k o b i $,default,kobi e-n (3sg)
 tomo1244-1-398_how-1,,tomo1244-1,398_how,kone,kone,k o n e,,BarlowKillian2023,,,^ k o n e $,default,
 tomo1244-1-399_howmuchhowmany-1,,tomo1244-1,399_howmuchhowmany,kone βae,kone βae,k o n e + β a e,,BarlowKillian2023,,,^ k o n e + β a e $,default,
-tomo1244-1-220_diminutiveprefix-1,,tomo1244-1,220_diminutiveprefix,kur-,kur-,k u r +,"diminutive prefix?; cf. /kure/ 'seed, fruit'; cf. /kur/ 'louse'",BarlowKillian2023,,,^ k u r - $,default,
-tomo1244-1-177_classtermprefixforbasketsopenthings-1,,tomo1244-1,177_classtermprefixforbasketsopenthings,la-,la-,l a +,"class term prefix for baskets, open things, pieces",BarlowKillian2023,,,^ l a - $,default,
+tomo1244-1-220_diminutiveprefix-1,,tomo1244-1,220_diminutiveprefix,kur-,kur-,k u r,"diminutive prefix?; cf. /kure/ 'seed, fruit'; cf. /kur/ 'louse'",BarlowKillian2023,,,^ k u r -$,default,
+tomo1244-1-177_classtermprefixforbasketsopenthings-1,,tomo1244-1,177_classtermprefixforbasketsopenthings,la-,la-,l a,"class term prefix for baskets, open things, pieces",BarlowKillian2023,,,^ l a -$,default,
 tomo1244-1-322_forestwoodsjungle-3,,tomo1244-1,322_forestwoodsjungle,ledel,ledel,l e d e l,"also /kariŋ/; can be adjectivized with prefix /te-/: /teledel/ 'of the forest, wild'",BarlowKillian2023,,,^ l e d e l $,default,te-ledel ('wild') (prefix /te-/)
 tomo1244-1-77_atinontotowardspreposition-1,,tomo1244-1,77_atinontotowardspreposition,lo,lo,l o,,BarlowKillian2023,,,^ l o $,default,
 tomo1244-1-926_when-1,,tomo1244-1,926_when,lo ŋha nua,lo ŋha nua,l o + ŋ h a + n u a,"literally 'at the day the where?'?; also /mla nua/, /tem la nua/",BarlowKillian2023,,,^ l o + ŋ h a + n u a $,default,
 tomo1244-1-526_ofgenitivepreposition-2,,tomo1244-1,526_ofgenitivepreposition,lo,lo,l o,"allomorph of /lol/; also /e/, /ŋa/, /ta/, /to/, /o/ (?)",BarlowKillian2023,,,^ l o $,default,
 tomo1244-1-355_goodafternoon-1,,tomo1244-1,355_goodafternoon,loʝok mepka,loʝok mepka,l o ʝ o k + m e p k a,literally 'afternoon good',BarlowKillian2023,,,^ l o ʝ o k + m e p k a $,default,
 tomo1244-1-526_ofgenitivepreposition-3,,tomo1244-1,526_ofgenitivepreposition,lol,lol,l o l,"allomorph of /lo/; also /e/, /ŋa/, /ta/, /to/, /o/ (?)",BarlowKillian2023,,,^ l o l $,default,
-tomo1244-1-626_singularmarker-1,,tomo1244-1,626_singularmarker,m=,m=,m +,"allomorph of /ne=/, generally before labial consonants",BarlowKillian2023,,,^ m = $,default,
+tomo1244-1-626_singularmarker-1,,tomo1244-1,626_singularmarker,m=,m=,m,"allomorph of /ne=/, generally before labial consonants",BarlowKillian2023,,,^ m =$,default,
 tomo1244-1-61_already-1,,tomo1244-1,61_already,ma,ma,m a,"postverbal; enclitic?/proclitic? (when an object follows it, it seems to cliticize to the object); perfective marker?; is this related to the [mo] found in luŋmo 'to catch, to hold'?",BarlowKillian2023,,,^ m a $,default,
 tomo1244-1-360_goodnight-1,,tomo1244-1,360_goodnight,mbeŋ mepka,mbeŋ mepka,m b e ŋ + m e p k a,literally 'sg=night good',BarlowKillian2023,,,^ m b e ŋ + m e p k a $,default,
-tomo1244-1-375_habitualmarker-1,,tomo1244-1,375_habitualmarker,me=,me=,m e +,preverbal; seems to occupy slot otherwise held by real/irr subject marker; function is uncertain; possibly the same morpheme as the adjective marker /me-/; cf. also /me/ 'again',BarlowKillian2023,,,^ m e = $,default,
-tomo1244-1-54_adjectivemarker-1,,tomo1244-1,54_adjectivemarker,me-,me-,m e +,preverbal (pre-adjectival); occurs with adjectives; function uncertain (from POc *ma- 'stative'?); possibly the same morpheme as the habitual marker /me=/; also /te-/,BarlowKillian2023,,,^ m e - $,default,
+tomo1244-1-375_habitualmarker-1,,tomo1244-1,375_habitualmarker,me=,me=,m e,preverbal; seems to occupy slot otherwise held by real/irr subject marker; function is uncertain; possibly the same morpheme as the adjective marker /me-/; cf. also /me/ 'again',BarlowKillian2023,,,^ m e =$,default,
+tomo1244-1-54_adjectivemarker-1,,tomo1244-1,54_adjectivemarker,me-,me-,m e,preverbal (pre-adjectival); occurs with adjectives; function uncertain (from POc *ma- 'stative'?); possibly the same morpheme as the habitual marker /me=/; also /te-/,BarlowKillian2023,,,^ m e -$,default,
 tomo1244-1-925_what-2,,tomo1244-1,925_what,mene,mene,m e n e,"also /boka/; same as 'to, for'?",BarlowKillian2023,,,^ m e n e $,default,
 tomo1244-1-796_tofordativeorbenefactivepreposition-1,,tomo1244-1,796_tofordativeorbenefactivepreposition,mene,mene,m e n e,same as 'what?',BarlowKillian2023,,,^ m e n e $,default,
 tomo1244-1-632_slightly-1,,tomo1244-1,632_slightly,mermer,mermer,m e r m e r,reduplication; from /mer/ 'to die'?,BarlowKillian2023,,,^ m e r m e r $,default,
@@ -949,51 +949,51 @@ tomo1244-1-357_goodbye-1,,tomo1244-1,357_goodbye,moike ma,moike ma,m o i k e + m
 tomo1244-1-426_insidein-1,,tomo1244-1,426_insidein,mosi,mosi,m o s i,,BarlowKillian2023,,,^ m o s i $,default,mosi lo-n (3sg)
 tomo1244-1-825_top-2,,tomo1244-1,825_top,mta,mta,m t a,also /ʝali/,BarlowKillian2023,,,^ m t a $,default,mta-n (3sg)
 tomo1244-1-264_fardistant-1,,tomo1244-1,264_fardistant,muŋ,muŋ,m u ŋ,same as 'to turn'?; also /ŋamuŋ/,BarlowKillian2023,,,^ m u ŋ $,default,
-tomo1244-1-626_singularmarker-2,,tomo1244-1,626_singularmarker,n=,n=,n +,"allomorph of /ne=/, generally before alveolar or palatal consonants",BarlowKillian2023,,,^ n = $,default,
-tomo1244-1-345_generalpossessiveclassifier2sg-1,,tomo1244-1,345_generalpossessiveclassifier2sg,n-,n-,n +,also /an-/,BarlowKillian2023,,,^ n - $,default,n-ke (2sg)
+tomo1244-1-626_singularmarker-2,,tomo1244-1,626_singularmarker,n=,n=,n,"allomorph of /ne=/, generally before alveolar or palatal consonants",BarlowKillian2023,,,^ n =$,default,
+tomo1244-1-345_generalpossessiveclassifier2sg-1,,tomo1244-1,345_generalpossessiveclassifier2sg,n-,n-,n,also /an-/,BarlowKillian2023,,,^ n -$,default,n-ke (2sg)
 tomo1244-1-64_andcoordinator-2,,tomo1244-1,64_andcoordinator,na,na,n a,loan from Tok Pisin /na/ 'and',BarlowKillian2023,,,^ n a $,default,
-tomo1244-1-717_thatthosemedialadnominaldemonstrative-2,,tomo1244-1,717_thatthosemedialadnominaldemonstrative,=na,=na,+ n a,sometimes [nna]; also /ana/; same as 'to give'?,BarlowKillian2023,,,^ = n a $,default,
-tomo1244-1-337_futuremarker1sg-1,,tomo1244-1,337_futuremarker1sg,na=,na=,n a +,meaning uncertain; occurs with 1sg in irrealis subject marker /sa=na=/ (?),BarlowKillian2023,,,^ n a = $,default,
+tomo1244-1-717_thatthosemedialadnominaldemonstrative-2,,tomo1244-1,717_thatthosemedialadnominaldemonstrative,=na,=na,n a,sometimes [nna]; also /ana/; same as 'to give'?,BarlowKillian2023,,,^= n a $,default,
+tomo1244-1-337_futuremarker1sg-1,,tomo1244-1,337_futuremarker1sg,na=,na=,n a,meaning uncertain; occurs with 1sg in irrealis subject marker /sa=na=/ (?),BarlowKillian2023,,,^ n a =$,default,
 tomo1244-1-67_another-2,,tomo1244-1,67_another,nasi,nasi,n a s i,,BarlowKillian2023,,,^ n a s i $,default,
 tomo1244-1-67_another-3,,tomo1244-1,67_another,nasi βadik,nasi βadik,n a s i + β a d i k,literally 'another other'?,BarlowKillian2023,,,^ n a s i + β a d i k $,default,
 tomo1244-1-389_hesitationwordumuh-1,,tomo1244-1,389_hesitationwordumuh,ne,ne,n e,"generally pronounced [ne ~ nɛ], as opposed to the singular marker /ne/ which is generally pronounced [nɛ ~ nə]",BarlowKillian2023,,,^ n e $,default,
 tomo1244-1-927_where-3,,tomo1244-1,927_where,ne ua,ne ua,n e + u a,"literally 'the where?'; also /au ua/, /go ua/, /ua/",BarlowKillian2023,,,^ n e + u a $,default,ne=βa (sg) (?)
-tomo1244-1-626_singularmarker-3,,tomo1244-1,626_singularmarker,ne=,ne=,n e +,"allomorphs: /n=/, /m=/, /ŋ=/",BarlowKillian2023,,,^ n e = $,default,
-tomo1244-1-347_generalpossessiveclassifier2sgpossessor-2,,tomo1244-1,347_generalpossessiveclassifier2sgpossessor,ne-,ne-,n e +,also /ane-/,BarlowKillian2023,,,^ n e - $,default,ne-m (2sg)
+tomo1244-1-626_singularmarker-3,,tomo1244-1,626_singularmarker,ne=,ne=,n e,"allomorphs: /n=/, /m=/, /ŋ=/",BarlowKillian2023,,,^ n e =$,default,
+tomo1244-1-347_generalpossessiveclassifier2sgpossessor-2,,tomo1244-1,347_generalpossessiveclassifier2sgpossessor,ne-,ne-,n e,also /ane-/,BarlowKillian2023,,,^ n e -$,default,ne-m (2sg)
 tomo1244-1-78_atinpreposition-1,,tomo1244-1,78_atinpreposition,neʝa,neʝa,n e ʝ a,,BarlowKillian2023,,,^ n e ʝ a $,default,
 tomo1244-1-540_onlyjust-1,,tomo1244-1,540_onlyjust,nema,nema,n e m a,,BarlowKillian2023,,,^ n e m a $,default,
 tomo1244-1-718_thatthosemedialdemonstrativepronounthere-1,,tomo1244-1,718_thatthosemedialdemonstrativepronounthere,nena,nena,n e n a,singular marker /ne=/ with demonstrative /na/ 'that (medial)'?,BarlowKillian2023,,,^ n e n a $,default,
 tomo1244-1-729_thistheseproximaldemonstrativepronounhere-1,,tomo1244-1,729_thistheseproximaldemonstrativepronounhere,neni,neni,n e n i,singular marker /ne=/ with demonstrative /na/ 'this (proximal)'?,BarlowKillian2023,,,^ n e n i $,default,
 tomo1244-1-715_thatthosedistaldemonstrativepronounyonder-1,,tomo1244-1,715_thatthosedistaldemonstrativepronounyonder,neŋa,neŋa,n e ŋ a,singular marker /ne=/ with demonstrative /ŋa/ 'that (distal)'?; also /neŋam/,BarlowKillian2023,,,^ n e ŋ a $,default,
 tomo1244-1-715_thatthosedistaldemonstrativepronounyonder-2,,tomo1244-1,715_thatthosedistaldemonstrativepronounyonder,neŋam,neŋam,n e ŋ a m,singular marker /ne=/ with demonstrative /ŋam/ 'that (distal)'?; also /neŋa/,BarlowKillian2023,,,^ n e ŋ a m $,default,
-tomo1244-1-728_thistheseproximaladnominaldemonstrative-2,,tomo1244-1,728_thistheseproximaladnominaldemonstrative,=ni,=ni,+ n i,sometimes [nni]; also /ani/,BarlowKillian2023,,,^ = n i $,default,
-tomo1244-1-338_futuremarkern1sg-1,,tomo1244-1,338_futuremarkern1sg,ni=,ni=,n i +,"meaning uncertain; sometimes occurs with non-1sg irrealis subjects, as /sa=ni=/ or /so=ni=/ (?)",BarlowKillian2023,,,^ n i = $,default,
-tomo1244-1-344_generalpossessiveclassifier1sgpossessor-2,,tomo1244-1,344_generalpossessiveclassifier1sgpossessor,ni-,ni-,n i +,also /ani-/,BarlowKillian2023,,,^ n i - $,default,ni-ŋ (1sg)
-tomo1244-1-343_generalpossessiveclassifier1sg3sg-2,,tomo1244-1,343_generalpossessiveclassifier1sg3sg,no-,no-,n o +,also /ano-/,BarlowKillian2023,,,^ n o - $,default,"no-ʝo (1sg), no-n (3sg)"
+tomo1244-1-728_thistheseproximaladnominaldemonstrative-2,,tomo1244-1,728_thistheseproximaladnominaldemonstrative,=ni,=ni,n i,sometimes [nni]; also /ani/,BarlowKillian2023,,,^= n i $,default,
+tomo1244-1-338_futuremarkern1sg-1,,tomo1244-1,338_futuremarkern1sg,ni=,ni=,n i,"meaning uncertain; sometimes occurs with non-1sg irrealis subjects, as /sa=ni=/ or /so=ni=/ (?)",BarlowKillian2023,,,^ n i =$,default,
+tomo1244-1-344_generalpossessiveclassifier1sgpossessor-2,,tomo1244-1,344_generalpossessiveclassifier1sgpossessor,ni-,ni-,n i,also /ani-/,BarlowKillian2023,,,^ n i -$,default,ni-ŋ (1sg)
+tomo1244-1-343_generalpossessiveclassifier1sg3sg-2,,tomo1244-1,343_generalpossessiveclassifier1sg3sg,no-,no-,n o,also /ano-/,BarlowKillian2023,,,^ n o -$,default,"no-ʝo (1sg), no-n (3sg)"
 tomo1244-1-348_generalpossessiveclassifiernonpronominalpossessor-2,,tomo1244-1,348_generalpossessiveclassifiernonpronominalpossessor,no,no,n o,also /ano/,BarlowKillian2023,,,^ n o $,default,
-tomo1244-1-578_prefix-2,,tomo1244-1,578_prefix,no-,no-,n o +,fossilized singular?; it is not clear whether this is or ever was a prefix; but it seems to alternate with /ho-/ (possibly reanalysis involved),BarlowKillian2023,,,^ n o - $,default,
+tomo1244-1-578_prefix-2,,tomo1244-1,578_prefix,no-,no-,n o,fossilized singular?; it is not clear whether this is or ever was a prefix; but it seems to alternate with /ho-/ (possibly reanalysis involved),BarlowKillian2023,,,^ n o -$,default,
 tomo1244-1-912_very-1,,tomo1244-1,912_very,nomnom,nomnom,n o m n o m,reduplication,BarlowKillian2023,,,^ n o m n o m $,default,
-tomo1244-1-626_singularmarker-4,,tomo1244-1,626_singularmarker,ŋ=,ŋ=,ŋ +,"allomorph of /ne=/, generally before velar or glottal consonants",BarlowKillian2023,,,^ ŋ = $,default,
-tomo1244-1-714_thatthosedistaladnominaldemonstrative-1,,tomo1244-1,714_thatthosedistaladnominaldemonstrative,=ŋa,=ŋa,+ ŋ a,"also /=ŋam/, /aŋa/; same as 'yawn'?",BarlowKillian2023,,,^ = ŋ a $,default,
+tomo1244-1-626_singularmarker-4,,tomo1244-1,626_singularmarker,ŋ=,ŋ=,ŋ,"allomorph of /ne=/, generally before velar or glottal consonants",BarlowKillian2023,,,^ ŋ =$,default,
+tomo1244-1-714_thatthosedistaladnominaldemonstrative-1,,tomo1244-1,714_thatthosedistaladnominaldemonstrative,=ŋa,=ŋa,ŋ a,"also /=ŋam/, /aŋa/; same as 'yawn'?",BarlowKillian2023,,,^= ŋ a $,default,
 tomo1244-1-526_ofgenitivepreposition-4,,tomo1244-1,526_ofgenitivepreposition,ŋa,ŋa,ŋ a,"also /e/, /lo/, /lol/, /ta/, /to/, /o/ (?)",BarlowKillian2023,,,^ ŋ a $,default,
 tomo1244-1-486_middle-1,,tomo1244-1,486_middle,ŋalu,ŋalu,ŋ a l u,,BarlowKillian2023,,,^ ŋ a l u $,default,
-tomo1244-1-716_thatthosedistaldemonstrativeyonder-1,,tomo1244-1,716_thatthosedistaldemonstrativeyonder,=ŋam,=ŋam,+ ŋ a m,"also /=ŋa/, /aŋa/; cf. /ŋamuŋ/ 'far, distant'",BarlowKillian2023,,,^ = ŋ a m $,default,
+tomo1244-1-716_thatthosedistaldemonstrativeyonder-1,,tomo1244-1,716_thatthosedistaldemonstrativeyonder,=ŋam,=ŋam,ŋ a m,"also /=ŋa/, /aŋa/; cf. /ŋamuŋ/ 'far, distant'",BarlowKillian2023,,,^= ŋ a m $,default,
 tomo1244-1-264_fardistant-2,,tomo1244-1,264_fardistant,ŋamuŋ,ŋamuŋ,ŋ a m u ŋ,also /muŋ/,BarlowKillian2023,,,^ ŋ a m u ŋ $,default,
 tomo1244-1-624_side-1,,tomo1244-1,624_side,ŋoetiŋ,ŋoetiŋ,ŋ o e t i ŋ,,BarlowKillian2023,,,^ ŋ o e t i ŋ $,default,la-ŋoetiŋ (prefix /la-/)
 tomo1244-1-647_somemultiple-1,,tomo1244-1,647_somemultiple,pisa,pisa,p i s a,,BarlowKillian2023,,,^ p i s a $,default,
 tomo1244-1-564_piecepartsegment-1,,tomo1244-1,564_piecepartsegment,puk,puk,p u k,,BarlowKillian2023,,,^ p u k $,default,puk e-n (3sg)
-tomo1244-1-577_prefix-1,,tomo1244-1,577_prefix,ra-,ra-,r a +,class term prefix for leaves,BarlowKillian2023,,,^ r a - $,default,
-tomo1244-1-235_dualmarker-1,,tomo1244-1,235_dualmarker,ro=,ro=,r o +,,BarlowKillian2023,,,^ r o = $,default,
-tomo1244-1-237_dupl1sgirrmarker-1,,tomo1244-1,237_dupl1sgirrmarker,sa=,sa=,s a +,preverbal; irrealis marker used for all subjects except 2sg and 3sg; 1sg perhaps always occurs with /na-/ as /sana-/?,BarlowKillian2023,,,^ s a = $,default,
-tomo1244-1-33_2sgirrsubjectmarker-1,,tomo1244-1,33_2sgirrsubjectmarker,se=,se=,s e +,preverbal,BarlowKillian2023,,,^ s e = $,default,
+tomo1244-1-577_prefix-1,,tomo1244-1,577_prefix,ra-,ra-,r a,class term prefix for leaves,BarlowKillian2023,,,^ r a -$,default,
+tomo1244-1-235_dualmarker-1,,tomo1244-1,235_dualmarker,ro=,ro=,r o,,BarlowKillian2023,,,^ r o =$,default,
+tomo1244-1-237_dupl1sgirrmarker-1,,tomo1244-1,237_dupl1sgirrmarker,sa=,sa=,s a,preverbal; irrealis marker used for all subjects except 2sg and 3sg; 1sg perhaps always occurs with /na-/ as /sana-/?,BarlowKillian2023,,,^ s a =$,default,
+tomo1244-1-33_2sgirrsubjectmarker-1,,tomo1244-1,33_2sgirrsubjectmarker,se=,se=,s e,preverbal,BarlowKillian2023,,,^ s e =$,default,
 tomo1244-1-405_ininside-2,,tomo1244-1,405_ininside,si,si,s i,"same as 'some, something'?; also /ausi/",BarlowKillian2023,,,^ s i $,default,
 tomo1244-1-648_somesomething-2,,tomo1244-1,648_somesomething,si,si,s i,"same as 'in, inside'?; also /hasi/",BarlowKillian2023,,,^ s i $,default,
 tomo1244-1-67_another-4,,tomo1244-1,67_another,si βadik,si βadik,s i + β a d i k,literally 'some other'?,BarlowKillian2023,,,^ s i + β a d i k $,default,
 tomo1244-1-520_nonegativeresponseword-1,,tomo1244-1,520_nonegativeresponseword,siam,siam,s i a m,,BarlowKillian2023,,,^ s i a m $,default,
-tomo1244-1-47_3sgirrsubjectmarker-1,,tomo1244-1,47_3sgirrsubjectmarker,so=,so=,s o +,preverbal,BarlowKillian2023,,,^ s o = $,default,
-tomo1244-1-32_2sg3sgrealsubjectmarker-1,,tomo1244-1,32_2sg3sgrealsubjectmarker,t=,t=,t +,preverbal; allomorph of /ti=/ before vowel-initial verbs,BarlowKillian2023,,,^ t = $,default,
+tomo1244-1-47_3sgirrsubjectmarker-1,,tomo1244-1,47_3sgirrsubjectmarker,so=,so=,s o,preverbal,BarlowKillian2023,,,^ s o =$,default,
+tomo1244-1-32_2sg3sgrealsubjectmarker-1,,tomo1244-1,32_2sg3sgrealsubjectmarker,t=,t=,t,preverbal; allomorph of /ti=/ before vowel-initial verbs,BarlowKillian2023,,,^ t =$,default,
 tomo1244-1-437_justnow-1,,tomo1244-1,437_justnow,ta girie,ta girie,t a + g i r i e,literally 'realis front'?,BarlowKillian2023,,,^ t a + g i r i e $,default,
-tomo1244-1-238_dupl1sgrealsubjectmarker-1,,tomo1244-1,238_dupl1sgrealsubjectmarker,ta=,ta=,t a +,preverbal; real marker used for all subjects except 2sg and 3sg,BarlowKillian2023,,,^ t a = $,default,
+tomo1244-1-238_dupl1sgrealsubjectmarker-1,,tomo1244-1,238_dupl1sgrealsubjectmarker,ta=,ta=,t a,preverbal; real marker used for all subjects except 2sg and 3sg,BarlowKillian2023,,,^ t a =$,default,
 tomo1244-1-527_ofgenitiveprepositionfromablativeparticle-1,,tomo1244-1,527_ofgenitiveprepositionfromablativeparticle,ta,ta,t a,"allomorph of /to/; also /e/, /lo/, /lol/, /ŋa/, /o/ (?)",BarlowKillian2023,,,^ t a $,default,
 tomo1244-1-862_totherightwhenfacingthesea-1,,tomo1244-1,862_totherightwhenfacingthesea,tamba,tamba,t a m b a,cf. /tambaden/ 'down',BarlowKillian2023,,,^ t a m b a $,default,
 tomo1244-1-225_downdownwards-1,,tomo1244-1,225_downdownwards,tambaden,tambaden,t a m b a d e n,cf. /tamba/ 'to the right when facing the sea',BarlowKillian2023,,,^ t a m b a d e n $,default,
@@ -1006,12 +1006,12 @@ tomo1244-1-901_upupwards-2,,tomo1244-1,901_upupwards,tanʝali,tanʝali,t a n ʝ 
 tomo1244-1-430_inward-1,,tomo1244-1,430_inward,tansi,tansi,t a n s i,"directional word?; meaning uncertain; cf. /si/ 'in, inside'",BarlowKillian2023,,,^ t a n s i $,default,
 tomo1244-1-545_outward-1,,tomo1244-1,545_outward,tanso,tanso,t a n s o,directional word?; meaning uncertain; cf. /tansi/ 'inward (?)',BarlowKillian2023,,,^ t a n s o $,default,
 tomo1244-1-514_nearclose-1,,tomo1244-1,514_nearclose,tasiek,tasiek,t a s i e k,,BarlowKillian2023,,,^ t a s i e k $,default,
-tomo1244-1-674_stativemarker-1,,tomo1244-1,674_stativemarker,te-,te-,t e +,preverbal (pre-adjectival); occurs with adjectives; function uncertain; also /me-/,BarlowKillian2023,,,^ t e - $,default,
+tomo1244-1-674_stativemarker-1,,tomo1244-1,674_stativemarker,te-,te-,t e,preverbal (pre-adjectival); occurs with adjectives; function uncertain; also /me-/,BarlowKillian2023,,,^ t e -$,default,
 tomo1244-1-926_when-3,,tomo1244-1,926_when,tem la nua,tem la nua,t e m + l a + n u a,"loan from Tok Pisin /taim/ 'time'; includes /ua/ 'where?'; also /lo ŋha nua/, /mla nua/",BarlowKillian2023,,,^ t e m + l a + n u a $,default,
 tomo1244-1-359_goodmorning-1,,tomo1244-1,359_goodmorning,tenimran mepka,tenimran mepka,t e n i m r a n + m e p k a,literally 'morning good',BarlowKillian2023,,,^ t e n i m r a n + m e p k a $,default,
 tomo1244-1-358_goodday-1,,tomo1244-1,358_goodday,teŋha mepka,teŋha mepka,t e ŋ h a + m e p k a,literally 'midday good',BarlowKillian2023,,,^ t e ŋ h a + m e p k a $,default,
 tomo1244-1-356_goodalrightthankyou-1,,tomo1244-1,356_goodalrightthankyou,tepka,tepka,t e p k a,sprefix /te-/ with /pka/ 'good'; cf. /mepka/ 'you're welcome',BarlowKillian2023,,,^ t e p k a $,default,
-tomo1244-1-32_2sg3sgrealsubjectmarker-2,,tomo1244-1,32_2sg3sgrealsubjectmarker,ti=,ti=,t i +,preverbal; also /t=/,BarlowKillian2023,,,^ t i = $,default,
+tomo1244-1-32_2sg3sgrealsubjectmarker-2,,tomo1244-1,32_2sg3sgrealsubjectmarker,ti=,ti=,t i,preverbal; also /t=/,BarlowKillian2023,,,^ t i =$,default,
 tomo1244-1-935_why-2,,tomo1244-1,935_why,tiho,tiho,t i h o,also /moho/,BarlowKillian2023,,,^ t i h o $,default,
 tomo1244-1-401_if-1,,tomo1244-1,401_if,to,to,t o,"is this the same as the verb 'to make, to build, to do'?; also <ke>, based on Grace (1955a)",BarlowKillian2023,,,^ t o $,default,
 tomo1244-1-928_wherefromwhence-1,,tomo1244-1,928_wherefromwhence,to ua,to ua,t o + u a,literally 'from where?'?,BarlowKillian2023,,,^ t o + u a $,default,
@@ -1021,7 +1021,7 @@ tomo1244-1-927_where-4,,tomo1244-1,927_where,ua,ua,u a,"also /auβa/, /goβa/, /
 tomo1244-1-388_here-2,,tomo1244-1,388_here,un,un,u n,also /aun/,BarlowKillian2023,,,^ u n $,default,
 tomo1244-1-137_bottom-1,,tomo1244-1,137_bottom,βa,βa,β a,same as 'to plant'?; also /βaden/,BarlowKillian2023,,,^ β a $,default,βa-n (3sg)
 tomo1244-1-941_withinstrumentalprepositionofinfullof-1,,tomo1244-1,941_withinstrumentalprepositionofinfullof,βa,βa,β a,cf. causative prefix /βa-/,BarlowKillian2023,,,^ β a $,default,
-tomo1244-1-157_causativeprefix-1,,tomo1244-1,157_causativeprefix,βa-,βa-,β a +,cf. /βa/ 'with' (preposition),BarlowKillian2023,,,^ β a - $,default,
+tomo1244-1-157_causativeprefix-1,,tomo1244-1,157_causativeprefix,βa-,βa-,β a,cf. /βa/ 'with' (preposition),BarlowKillian2023,,,^ β a -$,default,
 tomo1244-1-137_bottom-2,,tomo1244-1,137_bottom,βaden,βaden,β a d e n,also /βa/,BarlowKillian2023,,,^ β a d e n $,default,ne=βaden (sg)
 tomo1244-1-541_otheranother-1,,tomo1244-1,541_otheranother,βadik,βadik,β a d i k,,BarlowKillian2023,,,^ β a d i k $,default,
 tomo1244-1-719_thatyonderdistaldemonstrative-1,,tomo1244-1,719_thatyonderdistaldemonstrative,βarie,βarie,β a r i e,"same as 'to plant, to bury' (with verbal suffix /-rie/)?",BarlowKillian2023,,,^ β a r i e $,default,
@@ -1043,20 +1043,20 @@ tomo1244-1-17_1plinclpronounnonsubject-1,,tomo1244-1,17_1plinclpronounnonsubject
 tomo1244-1-31_2plpronounsubject-1,,tomo1244-1,31_2plpronounsubject,ikom,ikom,i k o m,cf. /kom/ '2pl pronoun (non-subject)',BarlowKillian2023,,,^ i k o m $,default,
 tomo1244-1-30_2plpronounnonsubject-1,,tomo1244-1,30_2plpronounnonsubject,kom,kom,k o m,cf. /ikom '2pl pronoun (subject)',BarlowKillian2023,,,^ k o m $,default,
 tomo1244-1-46_3plpronounsubjectornonsubject-1,,tomo1244-1,46_3plpronounsubjectornonsubject,ti,ti,t i,used as subject or non-subject,BarlowKillian2023,,,^ t i $,default,
-tomo1244-1-22_1sgposssuffix-1,,tomo1244-1,22_1sgposssuffix,-ʝo,-ʝo,+ ʝ o,also /-ŋ/,BarlowKillian2023,,,^ - ʝ o $,default,
-tomo1244-1-22_1sgposssuffix-2,,tomo1244-1,22_1sgposssuffix,-ŋ,-ŋ,+ ŋ,also /-ʝo/,BarlowKillian2023,,,^ - ŋ $,default,
-tomo1244-1-37_2sgposssuffix-1,,tomo1244-1,37_2sgposssuffix,-ke,-ke,+ k e,also /-m/,BarlowKillian2023,,,^ - k e $,default,
-tomo1244-1-37_2sgposssuffix-2,,tomo1244-1,37_2sgposssuffix,-m,-m,+ m,also /-ke/,BarlowKillian2023,,,^ - m $,default,
-tomo1244-1-51_3sgposssuffix-1,,tomo1244-1,51_3sgposssuffix,-n,-n,+ n,also /-k/ (with the kinship term 'brother'),BarlowKillian2023,,,^ - n $,default,
-tomo1244-1-51_3sgposssuffix-2,,tomo1244-1,51_3sgposssuffix,-k,-k,+ k,only found with the kinship term 'brother'; otherwise the 3sg.poss suffix is /-n/,BarlowKillian2023,,,^ - k $,default,
-tomo1244-1-2_1duexclposssuffix-1,,tomo1244-1,2_1duexclposssuffix,-ka,-ka,+ k a,,BarlowKillian2023,,,^ - k a $,default,
-tomo1244-1-6_1duinclposssuffix-1,,tomo1244-1,6_1duinclposssuffix,-ta,-ta,+ t a,,BarlowKillian2023,,,^ - t a $,default,
-tomo1244-1-25_2duposssuffix-1,,tomo1244-1,25_2duposssuffix,-kuma,-kuma,+ k u m a,,BarlowKillian2023,,,^ - k u m a $,default,
-tomo1244-1-42_3duposssuffix-1,,tomo1244-1,42_3duposssuffix,-doro,-doro,+ d o r o,,BarlowKillian2023,,,^ - d o r o $,default,
-tomo1244-1-11_1plexclposssuffix-1,,tomo1244-1,11_1plexclposssuffix,-kem,-kem,+ k e m,,BarlowKillian2023,,,^ - k e m $,default,
-tomo1244-1-16_1plinclposssuffix-1,,tomo1244-1,16_1plinclposssuffix,-sier,-sier,+ s i e r,,BarlowKillian2023,,,^ - s i e r $,default,
-tomo1244-1-29_2plposssuffix-1,,tomo1244-1,29_2plposssuffix,-kom,-kom,+ k o m,,BarlowKillian2023,,,^ - k o m $,default,
-tomo1244-1-45_3plposssuffix-1,,tomo1244-1,45_3plposssuffix,-di,-di,+ d i,,BarlowKillian2023,,,^ - d i $,default,
+tomo1244-1-22_1sgposssuffix-1,,tomo1244-1,22_1sgposssuffix,-ʝo,-ʝo,ʝ o,also /-ŋ/,BarlowKillian2023,,,^- ʝ o $,default,
+tomo1244-1-22_1sgposssuffix-2,,tomo1244-1,22_1sgposssuffix,-ŋ,-ŋ,ŋ,also /-ʝo/,BarlowKillian2023,,,^- ŋ $,default,
+tomo1244-1-37_2sgposssuffix-1,,tomo1244-1,37_2sgposssuffix,-ke,-ke,k e,also /-m/,BarlowKillian2023,,,^- k e $,default,
+tomo1244-1-37_2sgposssuffix-2,,tomo1244-1,37_2sgposssuffix,-m,-m,m,also /-ke/,BarlowKillian2023,,,^- m $,default,
+tomo1244-1-51_3sgposssuffix-1,,tomo1244-1,51_3sgposssuffix,-n,-n,n,also /-k/ (with the kinship term 'brother'),BarlowKillian2023,,,^- n $,default,
+tomo1244-1-51_3sgposssuffix-2,,tomo1244-1,51_3sgposssuffix,-k,-k,k,only found with the kinship term 'brother'; otherwise the 3sg.poss suffix is /-n/,BarlowKillian2023,,,^- k $,default,
+tomo1244-1-2_1duexclposssuffix-1,,tomo1244-1,2_1duexclposssuffix,-ka,-ka,k a,,BarlowKillian2023,,,^- k a $,default,
+tomo1244-1-6_1duinclposssuffix-1,,tomo1244-1,6_1duinclposssuffix,-ta,-ta,t a,,BarlowKillian2023,,,^- t a $,default,
+tomo1244-1-25_2duposssuffix-1,,tomo1244-1,25_2duposssuffix,-kuma,-kuma,k u m a,,BarlowKillian2023,,,^- k u m a $,default,
+tomo1244-1-42_3duposssuffix-1,,tomo1244-1,42_3duposssuffix,-doro,-doro,d o r o,,BarlowKillian2023,,,^- d o r o $,default,
+tomo1244-1-11_1plexclposssuffix-1,,tomo1244-1,11_1plexclposssuffix,-kem,-kem,k e m,,BarlowKillian2023,,,^- k e m $,default,
+tomo1244-1-16_1plinclposssuffix-1,,tomo1244-1,16_1plinclposssuffix,-sier,-sier,s i e r,,BarlowKillian2023,,,^- s i e r $,default,
+tomo1244-1-29_2plposssuffix-1,,tomo1244-1,29_2plposssuffix,-kom,-kom,k o m,,BarlowKillian2023,,,^- k o m $,default,
+tomo1244-1-45_3plposssuffix-1,,tomo1244-1,45_3plposssuffix,-di,-di,d i,,BarlowKillian2023,,,^- d i $,default,
 tomo1244-1-21_1sgpossgeneral-1,,tomo1244-1,21_1sgpossgeneral,anoʝo,anoʝo,a n o ʝ o,,BarlowKillian2023,,,^ a n o ʝ o $,default,
 tomo1244-1-21_1sgpossgeneral-2,,tomo1244-1,21_1sgpossgeneral,noʝo,noʝo,n o ʝ o,,BarlowKillian2023,,,^ n o ʝ o $,default,
 tomo1244-1-21_1sgpossgeneral-3,,tomo1244-1,21_1sgpossgeneral,aneŋ,aneŋ,a n e ŋ,,BarlowKillian2023,,,^ a n e ŋ $,default,
