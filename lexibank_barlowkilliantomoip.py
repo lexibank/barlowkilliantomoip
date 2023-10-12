@@ -14,10 +14,10 @@ class Dataset(pylexibank.Dataset):
     dir = Path(__file__).parent
     id = "barlowkilliantomoip"
     form_spec = pylexibank.FormSpec(
-        brackets={"(": ")"},  # characters that function as brackets
-        separators=";/,",  # characters that split forms e.g. "a, b".
-        missing_data=("?", "-"),  # characters that denote missing data.
-        strip_inside_brackets=False,  # do you want data removed in brackets or not?
+        brackets={"(": ")"},
+        separators=";/,",
+        missing_data=("?", "-"),
+        strip_inside_brackets=False,
     )
 
     lexeme_class = CustomLexeme
@@ -34,11 +34,14 @@ class Dataset(pylexibank.Dataset):
         args.writer.add_sources()
 
         for row in pylexibank.progressbar(data):
-            _ = args.writer.add_forms_from_value(
-                Language_ID=row["Language_ID"],
-                Parameter_ID=concept_lookup[row["English_Gloss"]],
-                Value=row["Form"],
-                Inflected_Forms=row["Inflected_Forms"],
-                Comment=row["Comment"],
-                Source=[row["Source"]],
-            )
+            try:
+                _ = args.writer.add_forms_from_value(
+                    Language_ID=row["Language_ID"],
+                    Parameter_ID=concept_lookup[row["English_Gloss"]],
+                    Value=row["Form"],
+                    Inflected_Forms=row["Inflected_Forms"],
+                    Comment=row["Comment"],
+                    Source=[row["Source"]],
+                )
+            except KeyError:
+                print(row["English_Gloss"])

@@ -19,18 +19,18 @@ This dataset is licensed under a CC-BY-4.0 license
 
 [![CLDF validation](https://github.com/lexibank/barlowkilliantomoip/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/barlowkilliantomoip/actions?query=workflow%3ACLDF-validation)
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
-![Concepticon: 0%](https://img.shields.io/badge/Concepticon-0%25-red.svg "Concepticon: 0%")
+![Concepticon: 68%](https://img.shields.io/badge/Concepticon-68%25-orange.svg "Concepticon: 68%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
 ![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
 ![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
 - **Varieties:** 1
-- **Concepts:** 967
-- **Lexemes:** 1,110
+- **Concepts:** 962
+- **Lexemes:** 1,105
 - **Sources:** 1
 - **Synonymy:** 1.15
 - **Invalid lexemes:** 0
-- **Tokens:** 5,084
+- **Tokens:** 5,063
 - **Segments:** 23 (0 BIPA errors, 0 CLTS sound class errors, 23 CLTS modified)
 - **Inventory size (avg):** 23.00
 
