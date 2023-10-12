@@ -6,7 +6,7 @@
 
 If you use these data please cite
 - the original source
-  > Barlow, Russell & Killian, Don. 2023. Tomoip wordlist: Based on elicitation sessions with Simon Mangil from Milim village, recorded in Kokopo, East New Britain, October to November 2022.
+  > Barlow, Russell & Killian, Don. 2023. Tomoip wordlist: Based on elicitation sessions with Simon Mangil from Milim village, recorded in Kokopo, East New Britain, October to November 2022. https://doi.org/10.5281/zenodo.8435080
 - the derived dataset using the DOI of the [particular released version](../../releases/) you were using
 
 ## Description

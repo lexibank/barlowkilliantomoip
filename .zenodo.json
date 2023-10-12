@@ -25,7 +25,7 @@
         }
     ],
     "upload_type": "dataset",
-    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Barlow, Russell &amp; Killian, Don. 2023. Tomoip wordlist: Based on elicitation sessions with Simon Mangil from Milim village, recorded in Kokopo, East New Britain, October to November 2022.</p>\n</blockquote>",
+    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Barlow, Russell &amp; Killian, Don. 2023. Tomoip wordlist: Based on elicitation sessions with Simon Mangil from Milim village, recorded in Kokopo, East New Britain, October to November 2022. https://doi.org/10.5281/zenodo.8435080</p>\n</blockquote>",
     "license": {
         "id": "CC-BY-4.0"
     }
