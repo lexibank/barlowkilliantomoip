@@ -13,7 +13,7 @@
         {
             "rdf:about": "https://github.com/lexibank/barlowkilliantomoip",
             "rdf:type": "prov:Entity",
-            "dc:created": "2cdbe11",
+            "dc:created": "ff71774",
             "dc:title": "Repository"
         },
         {
@@ -54,7 +54,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:extent": 1105,
+            "dc:extent": 1109,
             "tableSchema": {
                 "columns": [
                     {
@@ -227,7 +227,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ParameterTable",
-            "dc:extent": 962,
+            "dc:extent": 966,
             "tableSchema": {
                 "columns": [
                     {

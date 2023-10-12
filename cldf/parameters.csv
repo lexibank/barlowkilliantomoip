@@ -392,6 +392,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 391_hiphipbone,"hip, hip bone",1745,HIP
 392_hithertohere,"hither, to here (?)",2925,HITHER (HERE TO)
 393_holedoor,hole; door,1667,HOLE
+394_hoofofapig,hoof (of a pig),152,HOOF
 395_hornofalizard,horn (of a lizard),1393,HORN (ANATOMY)
 396_hot,hot,1286,HOT
 397_house,house,1252,HOUSE
@@ -412,6 +413,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 412_insectspbutterfly,insect sp. (butterfly),1791,BUTTERFLY
 413_insectspcentipede,insect sp. (centipede),1974,CENTIPEDE
 414_insectspcockroach,insect sp. (cockroach),1575,COCKROACH
+415_insectspdogflea,insect sp. (dog flea),232,FLEA
 416_insectspfireflystar,insect sp. (firefly); star,206,FIREFLY
 417_insectspflyhousefly,"insect sp. (fly, housefly)",1504,FLY (INSECT)
 418_insectspgrasshopper,insect sp. (grasshopper),607,GRASSHOPPER
@@ -548,9 +550,11 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 549_paintoacheofthehead,"pain, to ache (of the head)",3625,HEADACHE
 550_palateroofofmouth,"palate, roof of mouth",540,PALATE
 551_palmflower,palm flower,,
+552_palmofthehandsoleofthefootinsideofsomething,"palm of the hand, sole of the foot; inside of something",1183,PALM OF HAND
 553_pandanusleaf,pandanus leaf,,
 554_pandanusspusedforthatchroofsandmatsalsoeaten,pandanus sp. (used for thatch roofs and mats; also eaten),469,PANDANUS
 555_panpinesmadeofbamboo,panpines (made of bamboo),,
+556_partialpartiallypart,"partial, partially; part (?)",779,PART
 557_pathtrailroad,"path, trail, road",2457,PATH OR ROAD
 558_peace,peace,1338,PEACE
 559_penis,penis,1222,PENIS

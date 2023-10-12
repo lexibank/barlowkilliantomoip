@@ -34,14 +34,11 @@ class Dataset(pylexibank.Dataset):
         args.writer.add_sources()
 
         for row in pylexibank.progressbar(data):
-            try:
-                _ = args.writer.add_forms_from_value(
-                    Language_ID=row["Language_ID"],
-                    Parameter_ID=concept_lookup[row["English_Gloss"]],
-                    Value=row["Form"],
-                    Inflected_Forms=row["Inflected_Forms"],
-                    Comment=row["Comment"],
-                    Source=[row["Source"]],
-                )
-            except KeyError:
-                print(row["English_Gloss"])
+            _ = args.writer.add_forms_from_value(
+                Language_ID=row["Language_ID"],
+                Parameter_ID=concept_lookup[row["English_Gloss"]],
+                Value=row["Form"],
+                Inflected_Forms=row["Inflected_Forms"],
+                Comment=row["Comment"],
+                Source=[row["Source"]],
+            )

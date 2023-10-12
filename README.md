@@ -25,12 +25,12 @@ This dataset is licensed under a CC-BY-4.0 license
 ![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
 - **Varieties:** 1
-- **Concepts:** 962
-- **Lexemes:** 1,105
+- **Concepts:** 966
+- **Lexemes:** 1,109
 - **Sources:** 1
 - **Synonymy:** 1.15
 - **Invalid lexemes:** 0
-- **Tokens:** 5,063
+- **Tokens:** 5,080
 - **Segments:** 23 (0 BIPA errors, 0 CLTS sound class errors, 23 CLTS modified)
 - **Inventory size (avg):** 23.00
 
@@ -41,6 +41,7 @@ This dataset is licensed under a CC-BY-4.0 license
 | Russell Barlow    | @barlowrussell | author, data entry, data collector | Author |
 | Don Killian       | @theriel       | author                             | Author |
 | Christoph Rzymski | @chrzyki       | patron, maintainer                 | Other  |
+
 
 
 
