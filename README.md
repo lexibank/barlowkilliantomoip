@@ -39,7 +39,7 @@ This dataset is licensed under a CC-BY-4.0 license
 | Name              | GitHub user    | Description                        | Role   |
 |-------------------|----------------|------------------------------------|--------|
 | Russell Barlow    | @barlowrussell | author, data entry, data collector | Author |
-| Don Killian       |                | author, data entry, data collector | Author |
+| Don Killian       |                | author                             | Author |
 | Christoph Rzymski | @chrzyki       | patron, maintainer                 | Other  |
 
 
