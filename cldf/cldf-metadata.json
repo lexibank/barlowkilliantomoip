@@ -7,13 +7,13 @@
     "dc:license": "https://creativecommons.org/licenses/by/4.0/",
     "dc:related": null,
     "dc:source": "sources.bib",
-    "dc:title": "CLDF dataset derived from Barlow's and Killian's \"Tomoip Wordlist\" from 2022",
+    "dc:title": "CLDF dataset derived from Barlow and Killian's \"Tomoip Wordlist\" from 2023",
     "dcat:accessURL": "https://github.com/lexibank/barlowkilliantomoip",
     "prov:wasDerivedFrom": [
         {
             "rdf:about": "https://github.com/lexibank/barlowkilliantomoip",
             "rdf:type": "prov:Entity",
-            "dc:created": "783db5d",
+            "dc:created": "v1.0.1",
             "dc:title": "Repository"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "dc:title": "python",
-            "dc:description": "3.11.6"
+            "dc:description": "3.10.12"
         },
         {
             "dc:title": "python-packages",
