@@ -929,6 +929,7 @@ tomo1244-1-0927,tomo1244-1,when?,lo ŋha nua,,"literally 'at the day the where?'
 tomo1244-1-0928,tomo1244-1,of (genitive preposition),lo,,"allomorph of /lol/; also /e/, /ŋa/, /ta/, /to/, /o/ (?)",BarlowKillian2023
 tomo1244-1-0929,tomo1244-1,good afternoon,loʝok mepka,,literally 'afternoon good',BarlowKillian2023
 tomo1244-1-0930,tomo1244-1,of (genitive preposition),lol,,"allomorph of /lo/; also /e/, /ŋa/, /ta/, /to/, /o/ (?)",BarlowKillian2023
+tomo1244-1-0930a,tomo1244-1,irrealis marker (?) (n1sg?),m=,,meaning uncertain; allomorph of /n=/ ‘irrealis marker (?) (n1sg?)’ before labial consonants; also /ni=/; cf. /na=/ with 1sg irrealis subjects,BarlowKillian2023
 tomo1244-1-0931,tomo1244-1,singular marker,m=,,"allomorph of /ne=/, generally before labial consonants",BarlowKillian2023
 tomo1244-1-0932,tomo1244-1,already,ma,,"postverbal; enclitic?/proclitic? (when an object follows it, it seems to cliticize to the object); perfective marker?; is this related to the [mo] found in luŋmo 'to catch, to hold'?",BarlowKillian2023
 tomo1244-1-0933,tomo1244-1,good night,mbeŋ mepka,,literally 'sg=night good',BarlowKillian2023
@@ -948,11 +949,12 @@ tomo1244-1-0946,tomo1244-1,goodbye,moike ma,,literally 'and you already'?,Barlow
 tomo1244-1-0947,tomo1244-1,"inside, in",mosi,mosi lo-n (3sg),,BarlowKillian2023
 tomo1244-1-0948,tomo1244-1,top,mta,mta-n (3sg),also /ʝali/,BarlowKillian2023
 tomo1244-1-0949,tomo1244-1,"far, distant",muŋ,,same as 'to turn'?; also /ŋamuŋ/,BarlowKillian2023
+tomo1244-1-0949a,tomo1244-1,irrealis marker (?) (n1sg?),n=,,"meaning uncertain; sometimes occurs with non-1sg irrealis subjects, as /sa=n=/ or /so=n=/ (?); also /ni=/; allomorph /m=/ before labial consonants; cf. /na=/ with 1sg irrealis subjects",BarlowKillian2023
 tomo1244-1-0950,tomo1244-1,singular marker,n=,,"allomorph of /ne=/, generally before alveolar or palatal consonants",BarlowKillian2023
 tomo1244-1-0951,tomo1244-1,general possessive classifier (2sg),n-,n-ke (2sg),also /an-/,BarlowKillian2023
 tomo1244-1-0952,tomo1244-1,and (coordinator),na,,loan from Tok Pisin /na/ 'and',BarlowKillian2023
 tomo1244-1-0953,tomo1244-1,"that, those (medial adnominal demonstrative)",=na,,sometimes [nna]; also /ana/; same as 'to give'?,BarlowKillian2023
-tomo1244-1-0954,tomo1244-1,future marker (?) (1sg?),na=,,meaning uncertain; occurs with 1sg in irrealis subject marker /sa=na=/ (?),BarlowKillian2023
+tomo1244-1-0954,tomo1244-1,irrealis marker (?) (1sg?),na=,,"meaning uncertain; occurs with 1sg in irrealis subject marker /sa=na=/ (?); cf.  /ni=/, /n=/ ~ /m=/ with n1sg irrealis subjects",BarlowKillian2023
 tomo1244-1-0955,tomo1244-1,another,nasi,,,BarlowKillian2023
 tomo1244-1-0956,tomo1244-1,another,nasi βadik,,literally 'another other'?,BarlowKillian2023
 tomo1244-1-0957,tomo1244-1,"hesitation word (um, uh)",ne,,"generally pronounced [ne ~ nɛ], as opposed to the singular marker /ne/ which is generally pronounced [nɛ ~ nə]",BarlowKillian2023
@@ -966,7 +968,7 @@ tomo1244-1-0964,tomo1244-1,"this, these (proximal demonstrative pronoun); here",
 tomo1244-1-0965,tomo1244-1,"that, those (distal demonstrative pronoun); yonder",neŋa,,singular marker /ne=/ with demonstrative /ŋa/ 'that (distal)'?; also /neŋam/,BarlowKillian2023
 tomo1244-1-0966,tomo1244-1,"that, those (distal demonstrative pronoun); yonder",neŋam,,singular marker /ne=/ with demonstrative /ŋam/ 'that (distal)'?; also /neŋa/,BarlowKillian2023
 tomo1244-1-0967,tomo1244-1,"this, these (proximal adnominal demonstrative)",=ni,,sometimes [nni]; also /ani/,BarlowKillian2023
-tomo1244-1-0968,tomo1244-1,future marker (?) (n1sg?),ni=,,"meaning uncertain; sometimes occurs with non-1sg irrealis subjects, as /sa=ni=/ or /so=ni=/ (?)",BarlowKillian2023
+tomo1244-1-0968,tomo1244-1,irrealis marker (?) (n1sg?),ni=,,"meaning uncertain; sometimes occurs with non-1sg irrealis subjects, as /sa=ni=/ or /so=ni=/ (?); also /n=/ ~ /m=/; cf. /na=/ with 1sg irrealis subjects",BarlowKillian2023
 tomo1244-1-0969,tomo1244-1,general possessive classifier (1sg possessor),ni-,ni-ŋ (1sg),also /ani-/,BarlowKillian2023
 tomo1244-1-0970,tomo1244-1,general possessive classifier (1sg/3sg),no-,"no-ʝo (1sg), no-n (3sg)",also /ano-/,BarlowKillian2023
 tomo1244-1-0971,tomo1244-1,general possessive classifier (non-pronominal possessor),no,,also /ano/,BarlowKillian2023
