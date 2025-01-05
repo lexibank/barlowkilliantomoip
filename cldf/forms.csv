@@ -929,6 +929,7 @@ tomo1244-1-925_when-1,,tomo1244-1,925_when,lo ŋha nua,lo ŋha nua,l o + ŋ h a 
 tomo1244-1-526_ofgenitivepreposition-2,,tomo1244-1,526_ofgenitivepreposition,lo,lo,l o,"allomorph of /lol/; also /e/, /ŋa/, /ta/, /to/, /o/ (?)",BarlowKillian2023,,,^ l o $,default,
 tomo1244-1-355_goodafternoon-1,,tomo1244-1,355_goodafternoon,loʝok mepka,loʝok mepka,l o ʝ o k + m e p k a,literally 'afternoon good',BarlowKillian2023,,,^ l o ʝ o k + m e p k a $,default,
 tomo1244-1-526_ofgenitivepreposition-3,,tomo1244-1,526_ofgenitivepreposition,lol,lol,l o l,"allomorph of /lo/; also /e/, /ŋa/, /ta/, /to/, /o/ (?)",BarlowKillian2023,,,^ l o l $,default,
+tomo1244-1-338_futuremarkern1sg-1,,tomo1244-1,338_futuremarkern1sg,m=,m=,m,meaning uncertain; allomorph of /n=/ ‘future marker (?) (n1sg?)’ before labial consonants; also /ni=/; cf. /na=/ with 1sg irrealis subjects,BarlowKillian2023,,,^ m =$,default,
 tomo1244-1-625_singularmarker-1,,tomo1244-1,625_singularmarker,m=,m=,m,"allomorph of /ne=/, generally before labial consonants",BarlowKillian2023,,,^ m =$,default,
 tomo1244-1-61_already-1,,tomo1244-1,61_already,ma,ma,m a,"postverbal; enclitic?/proclitic? (when an object follows it, it seems to cliticize to the object); perfective marker?; is this related to the [mo] found in luŋmo 'to catch, to hold'?",BarlowKillian2023,,,^ m a $,default,
 tomo1244-1-360_goodnight-1,,tomo1244-1,360_goodnight,mbeŋ mepka,mbeŋ mepka,m b e ŋ + m e p k a,literally 'sg=night good',BarlowKillian2023,,,^ m b e ŋ + m e p k a $,default,
@@ -948,11 +949,12 @@ tomo1244-1-357_goodbye-1,,tomo1244-1,357_goodbye,moike ma,moike ma,m o i k e + m
 tomo1244-1-426_insidein-1,,tomo1244-1,426_insidein,mosi,mosi,m o s i,,BarlowKillian2023,,,^ m o s i $,default,mosi lo-n (3sg)
 tomo1244-1-824_top-2,,tomo1244-1,824_top,mta,mta,m t a,also /ʝali/,BarlowKillian2023,,,^ m t a $,default,mta-n (3sg)
 tomo1244-1-264_fardistant-1,,tomo1244-1,264_fardistant,muŋ,muŋ,m u ŋ,same as 'to turn'?; also /ŋamuŋ/,BarlowKillian2023,,,^ m u ŋ $,default,
+tomo1244-1-338_futuremarkern1sg-2,,tomo1244-1,338_futuremarkern1sg,n=,n=,n,"meaning uncertain; sometimes occurs with non-1sg irrealis subjects, as /sa=n=/ or /so=n=/ (?); also /ni=/; allomorph /m=/ before labial consonants; cf. /na=/ with 1sg irrealis subjects",BarlowKillian2023,,,^ n =$,default,
 tomo1244-1-625_singularmarker-2,,tomo1244-1,625_singularmarker,n=,n=,n,"allomorph of /ne=/, generally before alveolar or palatal consonants",BarlowKillian2023,,,^ n =$,default,
 tomo1244-1-345_generalpossessiveclassifier2sg-1,,tomo1244-1,345_generalpossessiveclassifier2sg,n-,n-,n,also /an-/,BarlowKillian2023,,,^ n -$,default,n-ke (2sg)
 tomo1244-1-64_andcoordinator-2,,tomo1244-1,64_andcoordinator,na,na,n a,loan from Tok Pisin /na/ 'and',BarlowKillian2023,,,^ n a $,default,
 tomo1244-1-716_thatthosemedialadnominaldemonstrative-2,,tomo1244-1,716_thatthosemedialadnominaldemonstrative,=na,=na,n a,sometimes [nna]; also /ana/; same as 'to give'?,BarlowKillian2023,,,^= n a $,default,
-tomo1244-1-337_futuremarker1sg-1,,tomo1244-1,337_futuremarker1sg,na=,na=,n a,meaning uncertain; occurs with 1sg in irrealis subject marker /sa=na=/ (?),BarlowKillian2023,,,^ n a =$,default,
+tomo1244-1-337_futuremarker1sg-1,,tomo1244-1,337_futuremarker1sg,na=,na=,n a,"meaning uncertain; occurs with 1sg in irrealis subject marker /sa=na=/ (?); cf.  /ni=/, /n=/ ~ /m=/ with n1sg irrealis subjects",BarlowKillian2023,,,^ n a =$,default,
 tomo1244-1-67_another-2,,tomo1244-1,67_another,nasi,nasi,n a s i,,BarlowKillian2023,,,^ n a s i $,default,
 tomo1244-1-67_another-3,,tomo1244-1,67_another,nasi βadik,nasi βadik,n a s i + β a d i k,literally 'another other'?,BarlowKillian2023,,,^ n a s i + β a d i k $,default,
 tomo1244-1-389_hesitationwordumuh-1,,tomo1244-1,389_hesitationwordumuh,ne,ne,n e,"generally pronounced [ne ~ nɛ], as opposed to the singular marker /ne/ which is generally pronounced [nɛ ~ nə]",BarlowKillian2023,,,^ n e $,default,
@@ -966,7 +968,7 @@ tomo1244-1-728_thistheseproximaldemonstrativepronounhere-1,,tomo1244-1,728_thist
 tomo1244-1-714_thatthosedistaldemonstrativepronounyonder-1,,tomo1244-1,714_thatthosedistaldemonstrativepronounyonder,neŋa,neŋa,n e ŋ a,singular marker /ne=/ with demonstrative /ŋa/ 'that (distal)'?; also /neŋam/,BarlowKillian2023,,,^ n e ŋ a $,default,
 tomo1244-1-714_thatthosedistaldemonstrativepronounyonder-2,,tomo1244-1,714_thatthosedistaldemonstrativepronounyonder,neŋam,neŋam,n e ŋ a m,singular marker /ne=/ with demonstrative /ŋam/ 'that (distal)'?; also /neŋa/,BarlowKillian2023,,,^ n e ŋ a m $,default,
 tomo1244-1-727_thistheseproximaladnominaldemonstrative-2,,tomo1244-1,727_thistheseproximaladnominaldemonstrative,=ni,=ni,n i,sometimes [nni]; also /ani/,BarlowKillian2023,,,^= n i $,default,
-tomo1244-1-338_futuremarkern1sg-1,,tomo1244-1,338_futuremarkern1sg,ni=,ni=,n i,"meaning uncertain; sometimes occurs with non-1sg irrealis subjects, as /sa=ni=/ or /so=ni=/ (?)",BarlowKillian2023,,,^ n i =$,default,
+tomo1244-1-338_futuremarkern1sg-3,,tomo1244-1,338_futuremarkern1sg,ni=,ni=,n i,"meaning uncertain; sometimes occurs with non-1sg irrealis subjects, as /sa=ni=/ or /so=ni=/ (?); also /n=/ ~ /m=/; cf. /na=/ with 1sg irrealis subjects",BarlowKillian2023,,,^ n i =$,default,
 tomo1244-1-344_generalpossessiveclassifier1sgpossessor-2,,tomo1244-1,344_generalpossessiveclassifier1sgpossessor,ni-,ni-,n i,also /ani-/,BarlowKillian2023,,,^ n i -$,default,ni-ŋ (1sg)
 tomo1244-1-343_generalpossessiveclassifier1sg3sg-2,,tomo1244-1,343_generalpossessiveclassifier1sg3sg,no-,no-,n o,also /ano-/,BarlowKillian2023,,,^ n o -$,default,"no-ʝo (1sg), no-n (3sg)"
 tomo1244-1-348_generalpossessiveclassifiernonpronominalpossessor-2,,tomo1244-1,348_generalpossessiveclassifiernonpronominalpossessor,no,no,n o,also /ano/,BarlowKillian2023,,,^ n o $,default,

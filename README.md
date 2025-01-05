@@ -1,7 +1,5 @@
 # CLDF dataset derived from Barlow and Killian's "Tomoip Wordlist" from 2023
 
-[![CLDF validation](https://github.com/lexibank/barlowkilliantomoip/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/barlowkilliantomoip/actions?query=workflow%3ACLDF-validation)
-
 ## How to cite
 
 If you use these data please cite
@@ -17,20 +15,19 @@ This dataset is licensed under a CC-BY-4.0 license
 ## Statistics
 
 
-[![CLDF validation](https://github.com/lexibank/barlowkilliantomoip/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/barlowkilliantomoip/actions?query=workflow%3ACLDF-validation)
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
 ![Concepticon: 68%](https://img.shields.io/badge/Concepticon-68%25-orange.svg "Concepticon: 68%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
 ![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
 ![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
-- **Varieties:** 1
-- **Concepts:** 966
-- **Lexemes:** 1,109
+- **Varieties:** 1 (linked to 1 different Glottocodes)
+- **Concepts:** 966 (linked to 623 different Concepticon concept sets)
+- **Lexemes:** 1,111
 - **Sources:** 1
 - **Synonymy:** 1.15
 - **Invalid lexemes:** 0
-- **Tokens:** 5,080
+- **Tokens:** 5,082
 - **Segments:** 23 (0 BIPA errors, 0 CLTS sound class errors, 23 CLTS modified)
 - **Inventory size (avg):** 23.00
 
